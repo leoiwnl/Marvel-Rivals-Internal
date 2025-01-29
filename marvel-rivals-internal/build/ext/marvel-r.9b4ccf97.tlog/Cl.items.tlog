@@ -1,0 +1,15 @@
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\dependencies\imgui\imgui.cpp;C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\build\ext\imgui.obj
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\dependencies\imgui\imgui_demo.cpp;C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\build\ext\imgui_demo.obj
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\dependencies\imgui\imgui_draw.cpp;C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\build\ext\imgui_draw.obj
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\dependencies\imgui\imgui_impl_dx10.cpp;C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\build\ext\imgui_impl_dx10.obj
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\dependencies\imgui\imgui_impl_dx11.cpp;C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\build\ext\imgui_impl_dx11.obj
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\dependencies\imgui\imgui_impl_dx12.cpp;C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\build\ext\imgui_impl_dx12.obj
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\dependencies\imgui\imgui_impl_dx9.cpp;C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\build\ext\imgui_impl_dx9.obj
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\dependencies\imgui\imgui_impl_win32.cpp;C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\build\ext\imgui_impl_win32.obj
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\dependencies\imgui\imgui_tables.cpp;C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\build\ext\imgui_tables.obj
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\dependencies\imgui\imgui_widgets.cpp;C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\build\ext\imgui_widgets.obj
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\dllmain.cpp;C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\build\ext\dllmain.obj
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK Functions\Basic.cpp;C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\build\ext\Basic.obj
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK Functions\CoreUObject_functions.cpp;C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\build\ext\CoreUObject_functions.obj
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK Functions\Engine_functions.cpp;C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\build\ext\Engine_functions.obj
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK Functions\Marvel_functions.cpp;C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\build\ext\Marvel_functions.obj

@@ -1,0 +1,226 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  dllmain.cpp
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Basic.hpp(302,10): warning C4311: 'reinterpret_cast': pointer truncation from 'const UC::uint8 *' to 'UC::int32'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Basic.hpp(302,10): warning C4302: 'reinterpret_cast': truncation from 'const UC::uint8 *' to 'UC::int32'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Basic.hpp(306,10): warning C4311: 'reinterpret_cast': pointer truncation from 'const UC::uint8 *' to 'UC::uint32'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Basic.hpp(306,10): warning C4302: 'reinterpret_cast': truncation from 'const UC::uint8 *' to 'UC::uint32'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Basic.hpp(371,19): warning C4018: '<=': signed/unsigned mismatch
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Basic.hpp(371,79): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\CoreUObject_structs.hpp(447,21): warning C4244: 'argument': conversion from 'SDK::FVector::UnderlayingType' to 'float', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\CoreUObject_structs.hpp(496,27): warning C4244: 'argument': conversion from 'SDK::FVector::UnderlayingType' to 'float', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\CoreUObject_structs.hpp(646,21): warning C4244: 'argument': conversion from 'SDK::FVector2D::UnderlayingType' to 'float', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\CoreUObject_structs.hpp(691,27): warning C4244: 'argument': conversion from 'SDK::FVector2D::UnderlayingType' to 'float', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Engine_structs.hpp(1544,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Engine_structs.hpp(1544,2): warning C4369: 'SDK::EViewModeIndex::VMI_Max_0':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Engine_structs.hpp(3975,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Engine_structs.hpp(3975,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Engine_structs.hpp(6479,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Engine_structs.hpp(6479,2): warning C4369: 'SDK::ESkinCacheUsage::ESkinCacheUsage_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Engine_structs.hpp(6704,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Engine_structs.hpp(6704,2): warning C4369: 'SDK::ETextureEncodeSpeedOverride::ETextureEncodeSpeedOverride_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Engine_structs.hpp(6930,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Engine_structs.hpp(6930,2): warning C4369: 'SDK::EStreamingSourcePriority::EStreamingSourcePriority_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Niagara_structs.hpp(667,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Niagara_structs.hpp(667,2): warning C4369: 'SDK::ENDISkeletalMesh_SkinningMode::ENDISkeletalMesh_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\GameplayAbilities_structs.hpp(347,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\GameplayAbilities_structs.hpp(347,2): warning C4369: 'SDK::EGACancelType::EGACancelType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(869,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(869,2): warning C4369: 'SDK::EMarvelKillReasonFlags::AssistantKill':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(870,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(870,2): warning C4369: 'SDK::EMarvelKillReasonFlags::SelfKill':  enumerator value '512' cannot be represented as 'unsigned char', value is '512'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(871,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(871,2): warning C4369: 'SDK::EMarvelKillReasonFlags::VirtualSceneKill':  enumerator value '1024' cannot be represented as 'unsigned char', value is '1024'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(872,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(872,2): warning C4369: 'SDK::EMarvelKillReasonFlags::VirtualCarKill':  enumerator value '2048' cannot be represented as 'unsigned char', value is '2048'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(873,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(873,2): warning C4369: 'SDK::EMarvelKillReasonFlags::FallenKill':  enumerator value '4096' cannot be represented as 'unsigned char', value is '4096'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(874,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(874,2): warning C4369: 'SDK::EMarvelKillReasonFlags::WizardKill':  enumerator value '8192' cannot be represented as 'unsigned char', value is '8192'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(875,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(875,2): warning C4369: 'SDK::EMarvelKillReasonFlags::LockBackKill':  enumerator value '16384' cannot be represented as 'unsigned char', value is '16384'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(876,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(876,2): warning C4369: 'SDK::EMarvelKillReasonFlags::SceneKill':  enumerator value '32768' cannot be represented as 'unsigned char', value is '32768'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(877,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(877,2): warning C4369: 'SDK::EMarvelKillReasonFlags::EMarvelKillReasonFlags_MAX':  enumerator value '32769' cannot be represented as 'unsigned char', value is '32769'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(2472,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(2472,2): warning C4369: 'SDK::EMarvelActorType::MarvelNormalSummoner':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(2473,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(2473,2): warning C4369: 'SDK::EMarvelActorType::MarvelChaosDestruction':  enumerator value '512' cannot be represented as 'unsigned char', value is '512'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(2474,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(2474,2): warning C4369: 'SDK::EMarvelActorType::EMarvelActorType_MAX':  enumerator value '513' cannot be represented as 'unsigned char', value is '513'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(3184,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\Marvel_structs.hpp(3184,2): warning C4369: 'SDK::EGameplayEffectStackRule::Replace':  enumerator value '-1' cannot be represented as 'unsigned char', value is '-1'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\AkAudio_structs.hpp(313,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\AkAudio_structs.hpp(313,2): warning C4369: 'SDK::EAkMidiEventType::EAkMidiEventType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\WwiseResourceLoader_structs.hpp(45,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\SDK\WwiseResourceLoader_structs.hpp(45,2): warning C4369: 'SDK::EWwiseGroupType::EWwiseGroupType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\Render\render.h(106,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\Render\render.h(190,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\Render\render.h(190,18): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\Render\render.h(198,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\Render\render.h(206,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\Render\render.h(206,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\Render\render.h(206,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\Render\render.h(206,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\Render\render.h(222,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\Render\render.h(222,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\Render\render.h(227,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\Render\render.h(227,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\dx12hook.h(276,63): warning C4244: '=': conversion from 'uintx_t' to 'UINT', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\dx12hook.h(296,63): warning C4244: '=': conversion from 'uintx_t' to 'UINT', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\dx12hook.h(309,27): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\dx12hook.h(316,72): warning C4244: 'argument': conversion from 'uintx_t' to 'int', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\hooks.h(50,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\hooks.h(50,17): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\src\hooks.h(87,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/dllmain.cpp')
+  
+detours.lib(detours.obj) : warning LNK4099: PDB '' was not found with 'detours.lib(detours.obj)' or at ''; linking object as if no debug info
+detours.lib(disasm.obj) : warning LNK4099: PDB '' was not found with 'detours.lib(disasm.obj)' or at ''; linking object as if no debug info
+detours.lib(modules.obj) : warning LNK4099: PDB '' was not found with 'detours.lib(modules.obj)' or at ''; linking object as if no debug info
+  marvel-rivals-internal.vcxproj -> C:\Users\leo\source\repos\marvel-rivals-internal\marvel-rivals-internal\build\MFPlay.dll
